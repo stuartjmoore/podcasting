@@ -8,7 +8,7 @@
         <description>rss.channel.description</description>
         <image>
             <title>rss.channel.image.title</title>
-            <url>http://www.example.com/rss.channel.image.url<url>
+            <url>http://www.example.com/rss.channel.image.url</url>
             <link>http://www.example.com/rss.channel.image.link</link>
         </image>
         <language>en-us</language>
