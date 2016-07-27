@@ -22,7 +22,7 @@
             <title>rss.channel.item.title</title>
             <author>rss.channel.item.author@example.com (rss.channel.author)</author>
             <description>rss.channel.item.description</description>
-            <enclosure url="http://example.com/rss.channel.item.enclosure" length="1" type="audio/mpeg" />
+            <enclosure url="http://example.com/rss.channel.item.enclosure.mp3" length="12216320" type="audio/mpeg" />
             <link>http://www.example.com/rss.channel.item.link</link>
             <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
         </item>
