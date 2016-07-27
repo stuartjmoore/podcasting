@@ -18,13 +18,37 @@
         <lastBuildDate>Tue, 26 Jul 2016 00:00:00 +0000</lastBuildDate>
         <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
         <item>
-            <guid>http://www.example.com/rss.channel.item.link.first</guid>
-            <title>rss.channel.item.title</title>
-            <author>rss.channel.item.author@example.com (rss.channel.author)</author>
-            <description>rss.channel.item.description</description>
-            <enclosure url="http://example.com/rss.channel.item.enclosure.mp3" length="12216320" type="audio/mpeg" />
-            <link>http://www.example.com/rss.channel.item.link</link>
+            <guid>http://www.example.com/rss.channel.item[0].link</guid>
+            <title>rss.channel.item[0].title</title>
+            <author>rss.channel.item[0].author@example.com (rss.channel.item[0].author)</author>
+            <description>rss.channel.item[0].description</description>
+            <enclosure url="http://example.com/rss.channel.item[0].enclosure.mp3" length="12216320" type="audio/mpeg" />
+            <link>http://www.example.com/rss.channel.item[0].link</link>
             <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <guid>http://www.example.com/rss.channel.item[1].link</guid>
+            <title>rss.channel.item[1].title</title>
+            <author>rss.channel.item[1].author@example.com (rss.channel.item[1].author)</author>
+            <description><![CDATA[
+                <h1>Header 1</h1>
+                <h2>Header 2</h2>
+                <h3>Header 3</h3>
+                <h4>Header 4</h4>
+                <h5>Header 5</h5>
+                <h6>Header 6</h6>
+                <p>This is <b>bold</b>, <strong>strong</strong>, <i>italic</i>, and <em>emphasis</em>.</p>
+                <p><a href="http://www.example.com">Link to somewhere</a>.</p>
+                <ol>
+                    <li>Ordered List Item</li>
+                </ol>
+                <ul>
+                    <li>Unordered List Item</li>
+                </ul>
+            ]]></description>
+            <enclosure url="http://example.com/rss.channel.item[1].enclosure.second.mp3" length="12216320" type="audio/mpeg" />
+            <link>http://www.example.com/rss.channel.item[1].link</link>
+            <pubDate>Tue, 25 Jul 2016 00:00:00 +0000</pubDate>
         </item>
     </channel>
 </rss>
