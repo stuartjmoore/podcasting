@@ -8,7 +8,7 @@
         <description>rss.channel.description</description>
         <image>
             <title>rss.channel.image.title</title>
-            <url>http://www.example.com/rss.channel.image.url</url>
+            <url>https://raw.githubusercontent.com/stuartjmoore/podcasting/master/examples/image-rss.png</url>
             <link>http://www.example.com/rss.channel.image.link</link>
         </image>
         <language>en-us</language>
@@ -16,7 +16,7 @@
         <lastBuildDate>Tue, 26 Jul 2016 00:00:00 +0000</lastBuildDate>
         <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
         <item>
-            <guid isPermaLink="true">0</guid>
+            <guid isPermaLink="false">0</guid>
             <title>rss.channel.item.title</title>
             <author>rss.channel.item.author</author>
             <description>rss.channel.item.description</description>
