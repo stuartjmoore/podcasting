@@ -18,17 +18,21 @@
         </image>
         <itunes:image href="https://raw.githubusercontent.com/stuartjmoore/podcasting/master/examples/image-itunes.png" />
         <language>en-us</language>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:category text="Technology">
+            <itunes:category text="Computers" />
+        </itunes:category>
         <link>http://www.example.com/rss.channel.link</link>
-        <lastBuildDate>Tue, 26 Jul 2016 00:00:00 +0000</lastBuildDate>
-        <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
+        <lastBuildDate>Tue, 26 Jul 2016 00:00:01 +0000</lastBuildDate>
+        <pubDate>Tue, 26 Jul 2016 00:00:01 +0000</pubDate>
         <item>
             <guid>http://www.example.com/rss.channel.item.0.link</guid>
             <title>rss.channel.item.0.title</title>
             <author>rss.channel.item.0.author@example.com (rss.channel.item.0.author)</author>
             <itunes:author>rss.channel.item.0.itunes:author</itunes:author>
-            <itunes:subtitle>rss.channel.item.0.itunes:subtitle</itunes:subtitle>
-            <itunes:summary>rss.channel.item.0.itunes:summary</itunes:summary>
-            <description>rss.channel.item.0.description</description>
+            <itunes:subtitle>rss.channel.item.0.itunes:subtitle; item with itunes:subtitle, itunes:summary, and description.</itunes:subtitle>
+            <itunes:summary>rss.channel.item.0.itunes:summary; item with itunes:subtitle, itunes:summary, and description.</itunes:summary>
+            <description>rss.channel.item.0.description; item with itunes:subtitle, itunes:summary, and description.</description>
             <enclosure url="http://example.com/rss.channel.item.0.enclosure.mp3" length="12216320" type="audio/mpeg" />
             <itunes:duration>1:23:45</itunes:duration>
             <link>http://www.example.com/rss.channel.item.0.link</link>
@@ -39,8 +43,8 @@
             <title>rss.channel.item.1.title</title>
             <author>rss.channel.item.1.author@example.com (rss.channel.item.1.author)</author>
             <itunes:author>rss.channel.item.1.itunes:author</itunes:author>
-            <itunes:subtitle>rss.channel.item.1.itunes:subtitle</itunes:subtitle>
-            <description>rss.channel.item.1.description</description>
+            <itunes:subtitle>rss.channel.item.1.itunes:subtitle; item with itunes:subtitle and description.</itunes:subtitle>
+            <description>rss.channel.item.1.description; item with itunes:subtitle and description.</description>
             <enclosure url="http://example.com/rss.channel.item.1.enclosure.mp3" length="12216320" type="audio/mpeg" />
             <itunes:duration>1:23:45</itunes:duration>
             <link>http://www.example.com/rss.channel.item.1.link</link>
@@ -51,8 +55,8 @@
             <title>rss.channel.item.2.title</title>
             <author>rss.channel.item.2.author@example.com (rss.channel.item.2.author)</author>
             <itunes:author>rss.channel.item.2.itunes:author</itunes:author>
-            <itunes:summary>rss.channel.item.2.itunes:summary</itunes:summary>
-            <description>rss.channel.item.2.description</description>
+            <itunes:summary>rss.channel.item.2.itunes:summary; item with itunes:summary and description.</itunes:summary>
+            <description>rss.channel.item.2.description; item with itunes:summary and description.</description>
             <enclosure url="http://example.com/rss.channel.item.2.enclosure.mp3" length="12216320" type="audio/mpeg" />
             <itunes:duration>1:23:45</itunes:duration>
             <link>http://www.example.com/rss.channel.item.2.link</link>
