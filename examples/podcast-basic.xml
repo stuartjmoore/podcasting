@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
         <title>rss.channel.title</title>
@@ -15,8 +15,8 @@
         </image>
         <language>en-us</language>
         <link>http://www.example.com/rss.channel.link</link>
-        <lastBuildDate>Tue, 26 Jul 2016 00:00:00 +0000</lastBuildDate>
-        <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
+        <lastBuildDate>Tue, 26 Jul 2016 00:00:01 +0000</lastBuildDate>
+        <pubDate>Tue, 26 Jul 2016 00:00:01 +0000</pubDate>
         <item>
             <guid>http://www.example.com/rss.channel.item.0.link</guid>
             <title>rss.channel.item.0.title</title>
