@@ -10,6 +10,8 @@
             <title>rss.channel.title</title>
             <link>http://www.example.com/rss.channel.link</link>
             <url>https://raw.githubusercontent.com/stuartjmoore/podcasting/master/examples/image-rss.png</url>
+            <width>144</width>
+            <height>144</height>
         </image>
         <language>en-us</language>
         <link>http://www.example.com/rss.channel.link</link>
