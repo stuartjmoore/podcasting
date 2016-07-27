@@ -24,7 +24,7 @@
         <item>
             <guid>http://www.example.com/rss.channel.item.0.link</guid>
             <title>rss.channel.item.0.title</title>
-            <author>rss.channel.item.0.author</author>
+            <author>rss.channel.item.0.author@example.com (rss.channel.item.0.author)</author>
             <itunes:author>rss.channel.item.0.itunes:author</itunes:author>
             <itunes:subtitle>rss.channel.item.0.itunes:subtitle</itunes:subtitle>
             <itunes:summary>rss.channel.item.0.itunes:summary</itunes:summary>
@@ -37,7 +37,7 @@
         <item>
             <guid>http://www.example.com/rss.channel.item.1.link</guid>
             <title>rss.channel.item.1.title</title>
-            <author>rss.channel.item.1.author</author>
+            <author>rss.channel.item.1.author@example.com (rss.channel.item.1.author)</author>
             <itunes:author>rss.channel.item.1.itunes:author</itunes:author>
             <itunes:subtitle>rss.channel.item.1.itunes:subtitle</itunes:subtitle>
             <description>rss.channel.item.1.description</description>
@@ -49,7 +49,7 @@
         <item>
             <guid>http://www.example.com/rss.channel.item.2.link</guid>
             <title>rss.channel.item.2.title</title>
-            <author>rss.channel.item.2.author</author>
+            <author>rss.channel.item.2.author@example.com (rss.channel.item.2.author)</author>
             <itunes:author>rss.channel.item.2.itunes:author</itunes:author>
             <itunes:summary>rss.channel.item.2.itunes:summary</itunes:summary>
             <description>rss.channel.item.2.description</description>
