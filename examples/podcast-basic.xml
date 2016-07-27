@@ -3,22 +3,22 @@
     <channel>
         <title>rss.channel.title</title>
         <copyright>rss.channel.copyright</copyright>
-        <webMaster>rss.channel.webMaster</webMaster>
-        <managingEditor>rss.channel.managingEditor</managingEditor>
+        <webMaster>rss.channel.webMaster@example.com (rss.channel.webMaster)</webMaster>
+        <managingEditor>rss.channel.managingEditor@example.com (rss.channel.managingEditor)</managingEditor>
         <description>rss.channel.description</description>
         <image>
-            <title>rss.channel.image.title</title>
+            <title>rss.channel.title</title>
+            <link>http://www.example.com/rss.channel.link</link>
             <url>https://raw.githubusercontent.com/stuartjmoore/podcasting/master/examples/image-rss.png</url>
-            <link>http://www.example.com/rss.channel.image.link</link>
         </image>
         <language>en-us</language>
         <link>http://www.example.com/rss.channel.link</link>
         <lastBuildDate>Tue, 26 Jul 2016 00:00:00 +0000</lastBuildDate>
         <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
         <item>
-            <guid isPermaLink="false">0</guid>
+            <guid>http://www.example.com/rss.channel.item.link.first</guid>
             <title>rss.channel.item.title</title>
-            <author>rss.channel.item.author</author>
+            <author>rss.channel.item.author@example.com (rss.channel.author)</author>
             <description>rss.channel.item.description</description>
             <enclosure url="http://example.com/rss.channel.item.enclosure" length="1" type="audio/mpeg" />
             <link>http://www.example.com/rss.channel.item.link</link>
